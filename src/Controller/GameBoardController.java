@@ -1,8 +1,9 @@
 package Controller;
 
 
-
 import java.io.IOException;
+
+
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -13,7 +14,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-public class QuestionController {
+public class GameBoardController {
 	@FXML
 	Button backBtn;
 	@FXML
